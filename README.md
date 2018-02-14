@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Survey on Attitudes to English in China
 
-You can use the [editor on GitHub](https://github.com/xiaoyantang/English-in-China-Usage-and-Attitudes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Together with [Dr. Alison Edwards](http://www.theroguelinguist.com/) from the University of Leiden and Tang Xiaoyan from Beijing Foreign Studies University[ I ](https://sites.google.com/site/rflinguistics/)am working on a project investigating attitudes to English in China. English has played a limited role on the Chinese mainland since it was dominated by European powers in the 19th century and later as a taught foreign language. Over the last two decades, knowledge of English has become much more important in China, in tandem with the country's rise on the world stage and its economic liberalisation. Knowledge of English also became much more important in centrally administered school exams (the Gaokao) and a government-led drive to encourage the study of English reached a peak with the 2008 Summer Olympics in Beijing.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, English is still much less widely understood and, especially, spoken, than in many non-Anglo Western countries. It can be difficult to ask for directions in English even in downtown Shanghai or Beijing, let alone in less metropolitan areas. We are thus interested in how attitudes to English in China, where knowledge of English spread relatively recently and is still limited, compare to attitudes in Germany and the Netherlands, where knowledge of English is much more entrenched both historically and in the scope of the phenomenon.
 
-### Markdown
+Questions of language use and language attitudes often cause controversy. Should English be more widely taught in China or is too much emphasis being placed on it already? Does teaching English imply the spread of Western culture or can the language be rid of its cultural associations? Do enough people in China speak English and do they speak it well enough?  Your voice counts in these matters. This survey gives you a chance to share your opinion.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are interested in when people in China use English and what their attitudes to using English in certain contexts are. If you live in China, no matter your level of English, we invite to share your opinions with us and complete the survey at [link]() The survey is available in English and Putonghua.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaoyantang/English-in-China-Usage-and-Attitudes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
